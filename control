@@ -7,7 +7,7 @@ Depends: mobilesubstrate
 Conflicts: 
 Replaces: 
 Section: Tweaks
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Transparent Dock for iOS 13
 Depiction: https://cydia.ichitaso.com/depiction/transparentdock13.html
